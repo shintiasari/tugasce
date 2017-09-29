@@ -1,6 +1,6 @@
 #include <iostream>
-using namaspace std;
+using namespace std;
 
 int main(){
-	
+	cout << "Halo Dunia" << endl ;
 }
